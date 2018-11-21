@@ -1,7 +1,7 @@
 package com.rich.pipeline;
 
 /**
- *ssassass Hello world!
+ *aaaaassassass Hello world!
  *try nothing
  */
 public class App 
