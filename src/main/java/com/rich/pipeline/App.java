@@ -2,7 +2,7 @@ package com.rich.pipeline;
 
 /**
  * Hello world!
- * nothing
+ *try nothing
  */
 public class App 
 {
